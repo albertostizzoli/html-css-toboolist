@@ -48,6 +48,15 @@ main{
     background-color: #ffffff;
 }
 
+h2{
+    margin-top: 35px;
+}
+
+ul{
+    list-style: none;
+    margin-top: 10px;
+    font-size: 20px;
+}
 .button-1{
     background-color: rgb(13, 151, 214);
     border-radius: 5px;
@@ -57,7 +66,6 @@ main{
     border: none;
     margin-top: 15px;
     font-weight: bold;
-    display: inline-block;
 }
 
 .button-2{
@@ -71,16 +79,57 @@ main{
     font-weight: bold;
 }
 
-h2{
-    margin-top: 35px;
+.button-3{
+    background-color: #9966ff;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 85px;
+    height: 30px;
+    border: none;
+    margin-top: 15px;
+    font-weight: bold;
 }
 
-ul{
-    list-style: none;
-    margin-top: 10px;
-    font-size: 20px;
+.button-4{
+    background-color: #00b359;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 85px;
+    height: 30px;
+    border: none;
+    margin-top: 15px;
+    font-weight: bold;
 }
 
-span{
-    display: inline-block;
+.button-5{
+    background-color: #ff9933;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 85px;
+    height: 30px;
+    border: none;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.button-6{
+    background-color: #ff66cc;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 85px;
+    height: 30px;
+    border: none;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.button-7{
+    background-color: #00cc00;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 85px;
+    height: 30px;
+    border: none;
+    margin-top: 15px;
+    font-weight: bold;
 }
