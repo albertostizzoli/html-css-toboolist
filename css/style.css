@@ -11,6 +11,7 @@ body{
 
 header{
     background-color: #ffffff;
+    max-height: 90px;
 }
 
 
@@ -38,9 +39,9 @@ main{
 .container{
     width: 1000px;
     height: 650px;
-    margin: 15px auto;
+    margin: auto;
     background-color: #ffffff;
-    border-radius: 15px;
+    border-radius: 5px;
 }
 
 .container-2{
