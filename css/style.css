@@ -4,12 +4,15 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Inter', sans-serif;
+}
 /* inizio header*/
 
 header{
     background-color: #ffffff;
-    font-family: 'Inter', sans-serif
 }
+
 
 img {
     width: 100px;
@@ -53,6 +56,7 @@ main{
     border: none;
     margin-top: 15px;
     font-weight: bold;
+    display: inline-block;
 }
 
 #button-2{
@@ -73,4 +77,9 @@ h2{
 ul{
     list-style: none;
     margin-top: 10px;
+    font-size: 20px;
+}
+
+span{
+    display: inline-block;
 }
