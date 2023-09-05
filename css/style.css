@@ -48,7 +48,7 @@ main{
     background-color: #ffffff;
 }
 
-#button-1{
+.button-1{
     background-color: rgb(13, 151, 214);
     border-radius: 5px;
     color: #ffffff;
@@ -60,7 +60,7 @@ main{
     display: inline-block;
 }
 
-#button-2{
+.button-2{
     background-color: #ffffff;
     border-radius: 5px;
     color: #bab3b3;
