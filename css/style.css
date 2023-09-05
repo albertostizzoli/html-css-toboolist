@@ -19,11 +19,12 @@ img {
     height: 100px;
     padding: 10px;
     background-size: cover;
+    vertical-align: middle;
 }
 
 #text-logo{
     font-size: 50px;
-    vertical-align: baseline;
+    vertical-align: middle;
 }
 
 /* inizio main */
