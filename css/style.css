@@ -51,6 +51,7 @@ main{
     background-color: #ffffff;
 }
 
+
 h2{
     margin-top: 35px;
 }
@@ -137,4 +138,22 @@ ul{
     font-weight: bold;
 }
 
+.check{
+    border: 1px solid green;
+    color: green;
+}
+
+.cross{
+    border: 1px solid red;
+    color: red;
+}
+
+.icon{
+    border-radius: 50%;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+}
 /* fine main */
