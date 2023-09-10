@@ -33,7 +33,8 @@ img {
 /* inizio main */
 
 main{
-    background-color: rgb(221, 220, 220);
+    background-color: rgb(237, 237, 237);
+    padding-top: 50px;
 }
 
 .container{
